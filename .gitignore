@@ -7,3 +7,7 @@
 # IPython
 profile_default/
 ipython_config.py
+
+# temp data
+gen_data
+*.m
