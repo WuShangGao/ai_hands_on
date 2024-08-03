@@ -2,8 +2,15 @@
 
 ## Reference and Learning Material
 
+### Beginners --> Intermediates
+
 1. [X] [Python3系统入门人工智能-慕课网实战 (imooc.com)](https://coding.imooc.com/class/418.html#Anchor)，by [Flare Zhao](https://blog.csdn.net/dfly_zx)
 2. [ ] [端到端机器学习平台Amazon SageMaker详解_哔哩哔哩_bilibil](https://www.bilibili.com/video/BV1ik4y197Jq/)，by [EmilyWebber](https://github.com/EmilyWebber)
+3. [ ] [microsoft/ML-For-Beginners: Classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+
+### Advanced
+
+* [ ] TODO
 
 ## Environment and Toolchain
 
@@ -20,15 +27,15 @@
 
 ## Notes
 
-1. Root Index: [README.md](README.md)
-2. Root Folder: [notes](notes)
+1. Root index: [[notes/00-index]](notes/00-index.md)
+2. Root folder: [notes](notes)
 3. Tool: [Obsidian, 1.6.7]()
 
 ## Dataset
 
-* [ ] TODO
+Grouped in dataset folder with [[dataset/00-index]]
 
-## Machine Learning
+## Hands-on
 
 ### Classical Machine Learning
 
