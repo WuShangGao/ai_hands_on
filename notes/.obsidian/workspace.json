@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e30a881d49283e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29a845851ae9936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b71dc3b354668b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,13 +196,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48d7d6d23d9c429b",
+  "active": "9b71dc3b354668b8",
   "lastOpenFiles": [
-    "model/02-linear regression.md",
-    "model/01-regression analysis.md",
-    "model/00-index.md",
+    "00-index.md",
+    "evaluation/r2.md",
+    "packing-lots.md",
+    "evaluation/mean_squared_error.md",
+    "evaluation/Confusion Matrix.md",
     "evaluation/confusion_matrix.md",
-    "evaluation",
-    "00-index.md"
+    "packing-lot",
+    "model/02-linear regression.md",
+    "model/00-index.md",
+    "model/01-regression analysis.md",
+    "evaluation"
   ]
 }
