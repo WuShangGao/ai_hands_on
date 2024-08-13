@@ -178,12 +178,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +198,8 @@
   },
   "active": "9b71dc3b354668b8",
   "lastOpenFiles": [
+    "model/02-linear regression.md",
+    "model/03-multiple_linear_regression.md",
     "00-index.md",
     "evaluation/r2.md",
     "packing-lots.md",
@@ -205,7 +207,6 @@
     "evaluation/Confusion Matrix.md",
     "evaluation/confusion_matrix.md",
     "packing-lot",
-    "model/02-linear regression.md",
     "model/00-index.md",
     "model/01-regression analysis.md",
     "evaluation"
