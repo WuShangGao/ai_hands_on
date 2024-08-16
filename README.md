@@ -7,6 +7,10 @@
 1. [X] [Python3系统入门人工智能-慕课网实战 (imooc.com)](https://coding.imooc.com/class/418.html#Anchor)，by [Flare Zhao](https://blog.csdn.net/dfly_zx)
 2. [ ] [端到端机器学习平台Amazon SageMaker详解_哔哩哔哩_bilibil](https://www.bilibili.com/video/BV1ik4y197Jq/)，by [EmilyWebber](https://github.com/EmilyWebber)
 3. [ ] [microsoft/ML-For-Beginners: Classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+4. [X] [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) by Sharon Zhou
+5. [X] [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by Isa Fulford
+6. [ ] [Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) by Mike Chambers
+7. [ ] [Awesome Promt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 ### Advanced
 
